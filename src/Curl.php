@@ -13,6 +13,6 @@ class Curl
 {
     public function SayHi()
     {
-      echo ("Hello!".PHP_EOL);
+        echo("Hello!" . PHP_EOL);
     }
 }
