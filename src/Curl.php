@@ -11,7 +11,7 @@ namespace Unifun;
 
 class Curl
 {
-    public function SayHi()
+    public function SayHiiiiiii()
     {
         echo("Hello!" . PHP_EOL);
     }
