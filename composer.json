@@ -1,0 +1,16 @@
+{
+    "name": "unifun/curl",
+    "description": "Curl Helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Shtansky",
+            "email": "n.shtanschi@unifun.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Unifun\\": "src/"}
+    }
+}
